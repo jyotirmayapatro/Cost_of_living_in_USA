@@ -3,9 +3,9 @@ This project aims to analyze and compare the cost of living across different cou
 
 Team Members:
 --------------
-Nawat
-Rushil 
-Amonwan(Eve)
-Siddardha
+Nawat;
+Rushil ;
+Amonwan(Eve);
+Siddardha;
 Jyotirmaya(JP)
 
